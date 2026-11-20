@@ -7,10 +7,27 @@
   
   }
 
+.Header{
+    background-color: #3b3b3b;
+    padding: 2%;
+    font-family: 'Montserrat', sans-serif;    color: whitesmoke;
+    font-weight: 100;
+}
 
+.Footer{
+    background-color: #3b3b3b;
+    padding: 2%;
+    font-family: 'Montserrat', sans-serif;    color: whitesmoke;
+    font-weight: 100;
+    margin-top: 50px;
+    bottom: 0;
 
-
-
+}
+.footerLink{
+    display: inline-block;
+    vertical-align: middle;
+    width: 10%;
+}
 
 .headerTitle{
     font-size: xx-large;
